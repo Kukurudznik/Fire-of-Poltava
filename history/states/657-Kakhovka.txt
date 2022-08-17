@@ -4,7 +4,8 @@ state={
 	name="STATE_657"
 
 	history={
-		victory_points = { 9611 2 }
+		victory_points = { 6792 10 }
+                victory_points = { 9661 15 }
 		owner = OPZ #SOV
 		add_core_of = OPZ
 		

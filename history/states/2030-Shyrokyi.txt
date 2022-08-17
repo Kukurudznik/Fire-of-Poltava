@@ -4,6 +4,7 @@ state={
 	name="STATE_2030"
 
 	history={
+                victory_points = { 13235 10 }
 		owner = AFU
 		add_core_of = AFU
 		buildings = {

@@ -5,6 +5,7 @@ state={
 		2612 
 	}
 	history={
+                victory_points = { 2612 1 }
 		owner = PRH
 		add_core_of = PRH
 		buildings = {

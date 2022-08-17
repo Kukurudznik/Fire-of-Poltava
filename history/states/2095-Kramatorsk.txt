@@ -6,7 +6,8 @@ state={
 		865 1641 2801 7364 7799 8175 8777 9296 13064 13142 13279 13412 
 	}
 	history = {
-		victory_points = { 8175 10 }
+		victory_points = { 8175 30 }
+                victory_points = { 7364 15 }
 		owner = AFU
 		add_core_of = AFU
 		buildings = {

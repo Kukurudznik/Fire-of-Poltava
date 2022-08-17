@@ -1,12 +1,14 @@
 
 state={
 	id=557
-	name="STATE_557"
+	name="Donets'k"
 	provinces={
 		1709 8020 13226 13509 19852 
 	}
 	history = {
-		victory_points = { 1709 80 }
+		victory_points = { 1709 30 }
+                victory_points = { 13509 25 } 
+                victory_points = { 19852 20 }
 		owner = DPR #SOV
 		add_core_of = DPR
 		

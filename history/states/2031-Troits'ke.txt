@@ -6,6 +6,7 @@ state={
 		362 520 
 	}
 	history = {
+                victory_points = { 520 6 }
 		owner = AFU
 		add_core_of = AFU
 		buildings = {

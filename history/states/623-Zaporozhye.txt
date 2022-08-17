@@ -7,7 +7,8 @@ state={
 	}
 	history = {
 		victory_points = { 3340 40 }
-		victory_points = { 4987 1 }
+                victory_points = { 13551 20 }
+		victory_points = { 5469 10 }
 		owner = ZAP
 		add_core_of = ZAP
 		buildings = {

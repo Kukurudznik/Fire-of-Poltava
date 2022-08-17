@@ -6,6 +6,7 @@ state={
 		1117 3712 3795 6422 7039 8851 9188 13766 
 	}
 	history = {
+                victory_points = { 3795 6 }
 		owner = OPZ #SOV
 		add_core_of = OPZ
 		buildings = {

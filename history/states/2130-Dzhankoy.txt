@@ -6,6 +6,7 @@ state={
 		719 3436 4341 4784 9650 14217 14228 14274 15838 
 	}
 	history = {
+                victory_points = { 15838 8 }
 		owner = CRI
 		add_core_of = CRI
 		buildings = {
