@@ -1,0 +1,31 @@
+spriteTypes = {
+
+ SpriteType = {
+     name = "GFX_idea_CHR_allies_in_the_west"
+	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_allies_in_the_west.dds"
+	} 
+ SpriteType = {
+     name = "GFX_idea_CHR_cornered_and_beaten"
+	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_cornered_and_beaten.dds"
+	} 
+ SpriteType = {
+     name = "GFX_idea_CHR_renovation_programme"
+	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_reconstruction.dds"
+	} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
