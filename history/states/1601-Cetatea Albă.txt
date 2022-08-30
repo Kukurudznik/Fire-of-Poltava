@@ -1,7 +1,7 @@
 
 state={
 	id=1601
-	name="STATE_1601"
+	name="Bilhorod-Dnistrovs'kyj"
 
 	history={
 		owner = ODE #ROM
