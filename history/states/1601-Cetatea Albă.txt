@@ -1,11 +1,12 @@
 
 state={
 	id=1601
-	name="Bilhorod-Dnistrovs'kyj"
+	name="STATE_1601"
 
 	history={
 		owner = ODE #ROM
 		add_core_of = ODE
+                victory_points = { 2181 8 }
 		buildings = {
 			infrastructure = 3
 

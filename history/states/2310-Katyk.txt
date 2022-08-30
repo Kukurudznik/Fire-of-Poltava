@@ -6,7 +6,7 @@ state={
 	}
 	history = {
 		victory_points = { 813 20 }
-                victory_points = { 13516 40 }
+                victory_points = { 13516 15 }
 		owner = DPR #SOV
 		add_core_of = DPR
 		buildings = {
