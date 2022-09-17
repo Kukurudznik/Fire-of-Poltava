@@ -8,6 +8,7 @@ state={
 	history = {
 		owner = PRH
 		add_core_of = PRH
+		victory_points = { 1559 5 }
 		buildings = {
 			infrastructure = 3
 		}

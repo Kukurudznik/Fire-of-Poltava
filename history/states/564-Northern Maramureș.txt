@@ -6,9 +6,9 @@ state={
 		owner = ZAK
 		add_core_of = ZAK
 		
-		victory_points = {
-			5734 2 #Khust
-		}
+		victory_points = { 5734 6 }
+		victory_points = { 6337 4 }
+
 		buildings = {
 			infrastructure = 2
 		}

@@ -7,8 +7,7 @@ state={
 	}
 	history = {
 		victory_points = { 13581 40 }
-		victory_points = { 13504 32 }
-                victory_points = { 4991 20 }
+		
 		owner = DNI
 		add_core_of = DNI
 		buildings = {

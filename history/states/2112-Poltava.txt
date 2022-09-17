@@ -7,6 +7,8 @@ state={
 	}
 	history = {
 		victory_points = { 2158 20 }
+                victory_points = { 2547 7 }
+                victory_points = { 12989 3 }
 		owner = PLT
 		add_core_of = PLT
 		

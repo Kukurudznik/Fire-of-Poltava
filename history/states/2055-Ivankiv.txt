@@ -6,7 +6,8 @@ state={
 		2965 4298 4444 6813 12238 12357 12436 
 	}
 	history = {
-		victory_points = { 6813 1 }
+		victory_points = { 6813 8 }
+                victory_points = { 12436 7 }
 		owner = KYI
 		add_core_of = KYI
 		buildings = {
