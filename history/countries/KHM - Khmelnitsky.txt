@@ -2,6 +2,12 @@
 
 set_research_slots = 3
 
+add_ideas = {
+       KHM_unfulfilled_promises
+       KHM_shaky_coalition
+       KHM_beginning_of_the_reforms
+}
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
