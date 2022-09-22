@@ -12,7 +12,18 @@ spriteTypes = {
      name = "GFX_idea_CHR_renovation_programme"
 	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_reconstruction.dds"
 	} 
-
+SpriteType = {
+     name = "GFX_idea_KHM_unfulfilled_promises"
+	 texturefile = "gfx/interface/ideas/KHM_unfulfilled_promises.dds"
+	}
+SpriteType = {
+     name = "GFX_idea_KHM_shaky_coalition"
+	 texturefile = "gfx/interface/ideas/KHM_shaky_coalition.dds"
+	}
+SpriteType = {
+     name = "GFX_idea_KHM_beginning_of_the_reforms"
+	 texturefile = "gfx/interface/ideas/KHM_beginning_of_the_reforms.dds"
+	}
 
 
 
