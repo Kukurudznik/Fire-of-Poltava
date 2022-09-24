@@ -1,7 +1,7 @@
 ideas = {
 	country = {
 
-		KHM_unfulfilled_promises = {
+		ZHY_unfulfilled_promises = {
 			picture = KHM_unfulfilled_promises
 			modifier = {
 				political_power_gain = -0.3
@@ -10,7 +10,7 @@ ideas = {
 			}
 		}
 
-		KHM_shaky_coalition = {
+		ZHY_shaky_coalition = {
 			picture = KHM_shaky_coalition
 			modifier = {
 				political_power_gain = -0.2
@@ -18,7 +18,7 @@ ideas = {
 			}
 		}
 
-		KHM_beginning_of_the_reforms = {
+		ZHY_beginning_of_the_reforms = {
 			picture = KHM_beginning_of_the_reforms
 			modifier = {
 				stability_factor = 0.2
