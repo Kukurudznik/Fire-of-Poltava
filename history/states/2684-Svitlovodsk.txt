@@ -1,13 +1,12 @@
 state={
 	id=2684
-	name="STATE_2684"
+	name="Svitlovods'k"
 	provinces={
 		2457 
 	}
 	history={
 		owner = CHR
 		add_core_of = CHR
-                victory_points = { 2457 5 }
 		buildings = {
 			infrastructure = 3
 		}

@@ -1,7 +1,7 @@
 
 state={
 	id=2028
-	name="STATE_2028"
+	name="Novoazovs'k"
 	provinces={
 		4600 8754 13797 13798 
 	}

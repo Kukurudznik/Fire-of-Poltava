@@ -1,7 +1,7 @@
 
 state={
 	id=2079
-	name="STATE_2079"
+	name="Dnipro"
 	provinces={
 		1680 1724 2097 2669 13368 13406 
 	}

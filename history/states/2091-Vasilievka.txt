@@ -1,13 +1,13 @@
 
 state={
 	id=2091
-	name="STATE_2091"
+	name="Vasylivka"
 	provinces={
 		1707 5114 5144 7543 8669 13728 13788 
 	}
 	history = {
-                victory_point = { 13728 9 }
-                victory_point = { 7543 12 }
+                victory_points = { 13728 9 7543 12 }
+                
 		owner = ZAP
 		add_core_of = ZAP
 		buildings = {

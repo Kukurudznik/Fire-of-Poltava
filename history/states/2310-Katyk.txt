@@ -1,12 +1,12 @@
 state={
 	id=2310
-	name="STATE_2310"
+	name="Shakhtars'k"
 	provinces={
 		813 1504 9235 9256 13498 13516 13565 13622 
 	}
 	history = {
 		victory_points = { 813 20 }
-                victory_points = { 13516 15 }
+                victory_points = { 13516 40 }
 		owner = DPR #SOV
 		add_core_of = DPR
 		buildings = {

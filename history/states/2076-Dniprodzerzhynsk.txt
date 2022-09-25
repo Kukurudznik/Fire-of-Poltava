@@ -1,7 +1,7 @@
 
 state={
 	id=2076
-	name="STATE_2076"
+	name="Kam'jans'ke"
 	provinces={
 		66 112 254 1147 3324 8675 9304 13290 13317 
 	}

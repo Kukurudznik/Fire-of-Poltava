@@ -1,7 +1,7 @@
 
 state={
 	id=2104
-	name="STATE_2104"
+	name="Lozova"
 	provinces={
 		2335 5523 5661 6828 8234 8379 13162 
 	}

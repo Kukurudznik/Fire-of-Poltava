@@ -1,13 +1,14 @@
 
 state={
 	id=2075
-	name="STATE_2075"
+	name="Kryvyj Rih"
 	provinces={
 		1245 1971 3478 4991 9447 9631 13504 13581 13628 13709 15854 
 	}
 	history = {
 		victory_points = { 13581 40 }
-		
+		victory_points = { 13504 32 }
+                victory_points = { 4991 20 }
 		owner = DNI
 		add_core_of = DNI
 		buildings = {

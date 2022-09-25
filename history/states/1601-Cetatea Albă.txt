@@ -6,10 +6,10 @@ state={
 	history={
 		owner = ODE #ROM
 		add_core_of = ODE
-                victory_points = { 2181 8 }
 		buildings = {
 			infrastructure = 3
 
+		}
 		}
 		add_core_of = MOL
 		buildings = {

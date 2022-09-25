@@ -1,7 +1,7 @@
 
 state={
 	id=2072
-	name="STATE_2072"
+	name="Novoukrajinka"
 
 	history={
 		victory_points = { 13328 1 }

@@ -16,8 +16,9 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = WUK
-        victory_points = { 249 40 }
-        victory_points = { 9005 6 }
+        victory_points = {
+            249 40
+        }
   	}
 	manpower=647662
 	buildings_max_level_factor=1.000

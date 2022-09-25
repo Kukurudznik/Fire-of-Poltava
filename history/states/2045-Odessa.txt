@@ -1,7 +1,7 @@
 
 state={
 	id=2045
-	name="STATE_2045"
+	name="Odesa"
 	provinces={
 		3104 5954 6897 7032 8526 13910 14022 19325 
 	}
