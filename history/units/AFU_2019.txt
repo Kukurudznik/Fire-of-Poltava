@@ -7,6 +7,8 @@ division_template = {
 		infantry = { x = 0 y = 1 }
 		infantry = { x = 1 y = 0 }
 		infantry = { x = 1 y = 1 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
 		
 	}
 	support = {
@@ -40,90 +42,126 @@ division_template = {
 	}
 	}
 
-
-units = {
+#TOTAL DIVISIONS: 13
+units = { 
 
 	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 1
-		}
-		location = 305
+		name = "36th marines brigade" 
+		
+		location = 13742
 		division_template = "pikhotna brigada"
-		start_experience_factor = 0.1
+		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	
 	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 2
-		}
-		location = 305
+		name = "Kholodny Yar brigade"
+		location = 8462
 		division_template = "pikhotna brigada"
-		start_experience_factor = 0.1
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.6
+
+	}
+	
+	division= {	
+		name = "30th mechanized brigade"
+		location = 965
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	
+	
+	division= {	
+		name = "57th mechanized infantry brigade"
+		location = 5237
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	division= {	
+		name = "92nd mechanized brigade"
+		location = 2275
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	division= {	
+		name = "14th mechanized brigade"
+		location = 13280
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	division= {	
+		name = "24th mechanized brigade"
+		location = 13451
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	division= {	
+		name = "54th mechanized brigade"
+		location = 8361
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	division= {	
+		name = "53th mechanized brigade"
+		location = 393
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+
+	division= {	
+		name = "80th paratrooper brigade"
+		location = 13235
+		division_template = "pikhotna brigada"
+		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	
 	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 3
-		}
-		location = 305
-		division_template = "pikhotna brigada"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
-
-	}
-	
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 4
-		}
-		location = 305
-		division_template = "pikhotna brigada"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
-
-	}
-	
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 1
-		}
+		name = "Polk Azov"
 		location = 3026
 		division_template = "dobrovoltsy"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_experience_factor = 0.5
+		start_equipment_factor = 1.0
 
 	}
 	
 	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 1
-		}
-		location = 3026
+		name = "Right Sector volunteers"
+		location = 13142
 		division_template = "dobrovoltsy"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
 
 	}
 	
 	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 1
-		}
-		location = 3026
+		name = "Aydar"
+		location = 2801
 		division_template = "dobrovoltsy"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
 
 	}
 }

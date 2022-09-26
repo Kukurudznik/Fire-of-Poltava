@@ -6,7 +6,10 @@ state={
 		1707 5114 5144 7543 8669 13728 13788 
 	}
 	history = {
-                victory_points = { 13728 9 7543 12 }
+        victory_points = { 
+			13728 9 }
+		victory_points = { 
+			7543 12 }
                 
 		owner = ZAP
 		add_core_of = ZAP

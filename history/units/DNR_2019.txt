@@ -10,9 +10,14 @@ division_template = {
 		infantry = { x = 2 y = 0 }
 		infantry = { x = 2 y = 1 }
 	}
+	support = {
+       	artillery = { x = 0 y = 0 }
+		recon = { x = 0 y = 2 }
+		
+	}
 }
 
-
+#TOTAL DIVISIONS: 9
 units = {
 
 	division= {	
@@ -97,27 +102,5 @@ units = {
 
 	}
 	
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 3
-		}
-		location = 813
-		division_template = "opolchenie"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
 
-	}
-	
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 3
-		}
-		location = 813
-		division_template = "opolchenie"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
-
-	}
 }
