@@ -172,6 +172,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_kim"
+		texturefile = "gfx/leaders/MYK/kim.dds"
+	}
+	
+	spriteType = {
 		name = "GFX_Kosh"
 		texturefile = "gfx/leaders/GAL/Kosh.dds"
 	}

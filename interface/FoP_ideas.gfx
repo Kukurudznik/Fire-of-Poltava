@@ -24,16 +24,13 @@ SpriteType = {
      name = "GFX_idea_ZHY_beginning_of_the_reforms"
 	 texturefile = "gfx/interface/ideas/zhytomyr-ideas/ZHY_beginning_of_the_reforms.dds"
 	}
-
-
-
-
-
-
-
-
-
-
-
+SpriteType = {
+     name = "GFX_idea_PLT_home_of_the_revolution"
+	 texturefile = "gfx/interface/ideas/poltava-ideas/PLT_home_of_the_revolution.dds"
+	}
+SpriteType = {
+     name = "GFX_idea_PLT_unstable_position"
+	 texturefile = "gfx/interface/ideas/poltava-ideas/PLT_unstable_position.dds"
+	}
 
 }

@@ -28,3 +28,16 @@ country_event = {
 	}
 }
 
+сountry_event = {
+	id = afu.3
+	title = "Asessing the situation"
+	desc = "Our high command and intelligence predicts that the colder phase of the Donbass conflict might be soon over. The was with the Russian proxies is on the horizon. It is time that we asess the situation and prepare ourselves to not only deffend against the upcoming onslaught, but also try to end the long - lasting conflict on our terms."
+
+	picture = GFX_report_event_carp_rada
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = "Let's see what we can do."
+		add_political_power = 2
+	}
+}

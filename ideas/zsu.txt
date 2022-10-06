@@ -5,31 +5,44 @@ ideas = {
 			picture = AFU_disorganised_administration-1061
 			modifier = {
 				political_power_gain = -0.3
-stability_factor = -0.3
+             stability_factor = -0.3
 
+			}
+		}
+		AFU_continue_the_state_of_emergency = {
+			picture = AFU_disorganised_administration-1061
+			modifier = {
+               stability_weekly = -0.02
+
+			}
+		}
+		
+		AFU_local_arms_manufacturing = {
+			picture = AFU_disorganised_administration-1061
+			modifier = {
+               industrial_capacity_factory = 0.15
+			   production_factory_max_efficiency_factor = 0.05
+			   production_lack_of_resource_penalty_factor = -0.1
+
+			}
+			equipment_bonus = {
+                     infantry_equipment = {
+					 instantly use instant = yes
+                     build_cost_ic = -0.15
+                  }
 			}
 		}
 		
 		AFU_millitary_administration = {
 			picture = AFU_disorganised_administration-1061
 			modifier = {
-				political_power_gain = -0.1
-                stability_factor = -0.1
+				political_power_gain = -0.2
+                stability_factor = -0.15
 				consumer_goods_factor = -0.05
 
 			}
 		}
-		
-		AFU_millitary_dictatorship = {
-			picture = AFU_disorganised_administration-1061
-			modifier = {
-				political_power_gain = -0.1
-                stability_factor = -0.2
-				consumer_goods_factor = -0.05
-
-			}
-		}
-
+	
 		AFU_defensive_strategy = {
 			picture = AFU_defensive_strategy-1084
 			modifier = {
