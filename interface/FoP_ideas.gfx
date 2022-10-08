@@ -2,35 +2,35 @@ spriteTypes = {
 
  SpriteType = {
      name = "GFX_idea_CHR_allies_in_the_west"
-	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_allies_in_the_west.dds"
+	 texturefile = "gfx/interface/ideas/cherkasy_ideas/CHR_allies_in_the_west.dds"
 	} 
  SpriteType = {
      name = "GFX_idea_CHR_cornered_and_beaten"
-	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_cornered_and_beaten.dds"
+	 texturefile = "gfx/interface/ideas/cherkasy_ideas/CHR_cornered_and_beaten.dds"
 	} 
  SpriteType = {
      name = "GFX_idea_CHR_renovation_programme"
-	 texturefile = "gfx/interface/ideas/cherkasy-ideas/CHR_reconstruction.dds"
+	 texturefile = "gfx/interface/ideas/cherkasy_ideas/CHR_reconstruction.dds"
 	} 
 SpriteType = {
      name = "GFX_idea_ZHY_unfulfilled_promises"
-	 texturefile = "gfx/interface/ideas/zhytomyr-ideas/ZHY_unfulfilled_promises.dds"
+	 texturefile = "gfx/interface/ideas/zhytomyr_ideas/ZHY_unfulfilled_promises.dds"
 	}
 SpriteType = {
      name = "GFX_idea_ZHY_shaky_coalition"
-	 texturefile = "gfx/interface/ideas/zhytomyr-ideas/ZHY_shaky_coalition.dds"
+	 texturefile = "gfx/interface/ideas/zhytomyr_ideas/ZHY_shaky_coalition.dds"
 	}
 SpriteType = {
      name = "GFX_idea_ZHY_beginning_of_the_reforms"
-	 texturefile = "gfx/interface/ideas/zhytomyr-ideas/ZHY_beginning_of_the_reforms.dds"
+	 texturefile = "gfx/interface/ideas/zhytomyr_ideas/ZHY_beginning_of_the_reforms.dds"
 	}
 SpriteType = {
      name = "GFX_idea_PLT_home_of_the_revolution"
-	 texturefile = "gfx/interface/ideas/poltava-ideas/PLT_home_of_the_revolution.dds"
+	 texturefile = "gfx/interface/ideas/poltava_ideas/PLT_home_of_the_revolution.dds"
 	}
 SpriteType = {
      name = "GFX_idea_PLT_unstable_position"
-	 texturefile = "gfx/interface/ideas/poltava-ideas/PLT_unstable_position.dds"
+	 texturefile = "gfx/interface/ideas/poltava_ideas/PLT_unstable_position.dds"
 	}
 SpriteType = {
      name = "GFX_idea_ZAK_hungarian_influence"
