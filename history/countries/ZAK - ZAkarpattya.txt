@@ -3,6 +3,12 @@ oob = "ZAK_2019"
 
 set_research_slots = 3
 
+add_ideas = {
+     ZAK_hungarian_influence
+     ZAK_local_security_service
+     ZAK_svynohryusyny
+}
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
