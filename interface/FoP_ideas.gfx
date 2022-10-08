@@ -32,5 +32,17 @@ SpriteType = {
      name = "GFX_idea_PLT_unstable_position"
 	 texturefile = "gfx/interface/ideas/poltava-ideas/PLT_unstable_position.dds"
 	}
+SpriteType = {
+     name = "GFX_idea_ZAK_hungarian_influence"
+	 texturefile = "gfx/interface/ideas/zakarpattya_ideas/ZAK_hungarian_influence.dds"
+	}
+SpriteType = {
+     name = "GFX_idea_ZAK_security_service"
+	 texturefile = "gfx/interface/ideas/zakarpattya_ideas/ZAK_security_service.dds"
+	}
+SpriteType = {
+     name = "GFX_idea_ZAK_marginalized_ruthenians"
+	 texturefile = "gfx/interface/ideas/zakarpattya_ideas/ZAK_marginalized_ruthenians.dds"
+	}
 
 }
